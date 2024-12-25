@@ -1,8 +1,8 @@
 langchain
 huggingface_hub
 transformers
-accelerate
-bitsandbytes
+pydantic
+sentence-transformers
 langchain_huggingface
 streamlit
 python-dotenv
