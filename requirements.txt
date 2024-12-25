@@ -1,8 +1,6 @@
 langchain
 huggingface_hub
-transformers
-pydantic
-sentence-transformers
+dateparser
 langchain_huggingface
 streamlit
 python-dotenv
